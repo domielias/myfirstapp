@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="edit_name">Digite un nombre...</string>
+    <string name="edit_last_name">Digite un apellido...</string>
+    <string name="gender_text">Genero:</string>
+    <string name="birth_date_text">Nacimiento:</string>
+    <string name="like_to_programming_text">Le gusta programar?</string>
+</resources>
